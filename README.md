@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gsl-pierrekore
-- 👀 I’m interested in basket ball andmusique
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in basket ball and musique
 
 <!---
 gsl-pierrekore/gsl-pierrekore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
