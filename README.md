@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gsl-pierrekore
+- 👋 Hi, I’m Pierre Koré
 - 👀 I’m interested in basket ball and musique
 
 <!---
